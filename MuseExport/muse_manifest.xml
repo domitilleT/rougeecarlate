@@ -1,0 +1,225 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.ecarlate.fr" resolutions="1x" timestamp="1536920134793">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-gabarit.css" crc="196526717" ref="index"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="109896196" ref="index"/>
+    <file name="nomq_index.css" crc="53668106" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="battements-de-coeur---bruitage-gratuit.mp3" crc="375308542" seo="true" mt="1536844843000"/>
+    <file name="écarlate.png" crc="323995123" seo="true" mt="1536879927000"/>
+    <file name="blanc.png" crc="38205677" seo="true" mt="1536880166000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="bisous.gif" crc="3903088634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3063_states.png" crc="4070795733" ref="index"/>
+    <file name="u3063_states-r.png" crc="4012743679" ref="index"/>
+    <file name="u3063_states-m.png" crc="4012743679" ref="index"/>
+    <file name="u3063_states-a.png" crc="4012743679" ref="index"/>
+    <file name="u3062_states.png" crc="4012743679" ref="index"/>
+    <file name="u3062_states-r.png" crc="4070795733" ref="index"/>
+    <file name="u3062_states-m.png" crc="4070795733" ref="index"/>
+    <file name="u3062_states-a.png" crc="4070795733" ref="index"/>
+    <file name="u6081-42.png" crc="333343640" ref="index"/>
+    <file name="next.png" crc="4028461197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="europe.png" crc="368660725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asie.png" crc="3828384732" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="afrique.png" crc="145499650" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7475-9.png" crc="4079174871" ref="index"/>
+    <file name="u7479-6.png" crc="522389327" ref="index"/>
+    <file name="u7485-6.png" crc="13361574" ref="index"/>
+    <file name="next2.png" crc="4076688362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3086.png" crc="4024084462" ref="index"/>
+    <file name="u3086-r.png" crc="4024084462" ref="index"/>
+    <file name="u3086-m.png" crc="4024084462" ref="index"/>
+    <file name="u3086-a.png" crc="476731082" ref="index"/>
+    <file name="colre (1).gif" crc="21200359" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3092.png" crc="321346799" ref="index"/>
+    <file name="u3092-r.png" crc="321346799" ref="index"/>
+    <file name="u3092-m.png" crc="321346799" ref="index"/>
+    <file name="u3092-a.png" crc="295461525" ref="index"/>
+    <file name="chance (2).jpg" crc="342320860" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="danger.gif" crc="3881589735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3084.png" crc="180796105" ref="index"/>
+    <file name="u3084-r.png" crc="180796105" ref="index"/>
+    <file name="u3084-m.png" crc="180796105" ref="index"/>
+    <file name="u3084-a.png" crc="4277122673" ref="index"/>
+    <file name="joie.gif" crc="214770746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="agress.gif" crc="237461193" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u8616-28.png" crc="313519632" ref="index"/>
+    <file name="u3063_states2.png" crc="4070795733" ref="index"/>
+    <file name="u3063_states-r2.png" crc="4012743679" ref="index"/>
+    <file name="u3063_states-m2.png" crc="4012743679" ref="index"/>
+    <file name="u3063_states-a2.png" crc="4012743679" ref="index"/>
+    <file name="u3062_states2.png" crc="4012743679" ref="index"/>
+    <file name="u3062_states-r2.png" crc="4070795733" ref="index"/>
+    <file name="u3062_states-m2.png" crc="4070795733" ref="index"/>
+    <file name="u3062_states-a2.png" crc="4070795733" ref="index"/>
+    <file name="u30862.png" crc="3840365213" ref="index"/>
+    <file name="u3086-r2.png" crc="3840365213" ref="index"/>
+    <file name="u3086-m2.png" crc="3840365213" ref="index"/>
+    <file name="u3086-a2.png" crc="536578236" ref="index"/>
+    <file name="u30922.png" crc="169735689" ref="index"/>
+    <file name="u3092-r2.png" crc="169735689" ref="index"/>
+    <file name="u3092-m2.png" crc="169735689" ref="index"/>
+    <file name="u3092-a2.png" crc="4110539052" ref="index"/>
+    <file name="u30842.png" crc="3766934253" ref="index"/>
+    <file name="u3084-r2.png" crc="3766934253" ref="index"/>
+    <file name="u3084-m2.png" crc="3766934253" ref="index"/>
+    <file name="u3084-a2.png" crc="3994520301" ref="index"/>
+    <file name="u6081-422.png" crc="215180897" ref="index"/>
+    <file name="u7475-92.png" crc="4079174871" ref="index"/>
+    <file name="u7479-62.png" crc="522389327" ref="index"/>
+    <file name="u7485-62.png" crc="13361574" ref="index"/>
+    <file name="u8616-282.png" crc="510777471" ref="index"/>
+    <file name="u3063_states3.png" crc="4070795733" ref="index"/>
+    <file name="u3063_states-r3.png" crc="4012743679" ref="index"/>
+    <file name="u3063_states-m3.png" crc="4012743679" ref="index"/>
+    <file name="u3063_states-a3.png" crc="4012743679" ref="index"/>
+    <file name="u3062_states3.png" crc="4012743679" ref="index"/>
+    <file name="u3062_states-r3.png" crc="4070795733" ref="index"/>
+    <file name="u3062_states-m3.png" crc="4070795733" ref="index"/>
+    <file name="u3062_states-a3.png" crc="4070795733" ref="index"/>
+    <file name="u30863.png" crc="4134036229" ref="index"/>
+    <file name="u3086-r3.png" crc="4134036229" ref="index"/>
+    <file name="u3086-m3.png" crc="4134036229" ref="index"/>
+    <file name="u3086-a3.png" crc="117350132" ref="index"/>
+    <file name="u30923.png" crc="321346799" ref="index"/>
+    <file name="u3092-r3.png" crc="321346799" ref="index"/>
+    <file name="u3092-m3.png" crc="321346799" ref="index"/>
+    <file name="u3092-a3.png" crc="460613509" ref="index"/>
+    <file name="u30843.png" crc="180796105" ref="index"/>
+    <file name="u3084-r3.png" crc="180796105" ref="index"/>
+    <file name="u3084-m3.png" crc="180796105" ref="index"/>
+    <file name="u3084-a3.png" crc="4277122673" ref="index"/>
+    <file name="u6081-423.png" crc="215180897" ref="index"/>
+    <file name="u7475-93.png" crc="4079174871" ref="index"/>
+    <file name="u7479-63.png" crc="522389327" ref="index"/>
+    <file name="u7485-63.png" crc="13361574" ref="index"/>
+    <file name="u8616-283.png" crc="4272584793" ref="index"/>
+  </folder>
+  <file name="index.html" crc="46656694" seo="true" mt="1536920130369" redirect="true"/>
+</manifest>
